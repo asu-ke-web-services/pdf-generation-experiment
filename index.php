@@ -20,6 +20,7 @@ $snappy->setOption('margin-top', 0);
 $snappy->setOption('margin-bottom', 0);
 $snappy->setOption('margin-left', 0);
 $snappy->setOption('margin-right', 0);
+$snappy->setOption('page-size', 'Letter');
 
 echo $snappy->getOutputFromHtml(
   $html
