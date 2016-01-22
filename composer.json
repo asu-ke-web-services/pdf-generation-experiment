@@ -1,0 +1,12 @@
+{
+    "name": "wordpresstesting/email-pdf-test",
+    "require": {
+        "knplabs/knp-snappy": "^0.4.3"
+    },
+    "authors": [
+        {
+            "name": "Ivan Montiel",
+            "email": "idmontie@asu.edu"
+        }
+    ]
+}
